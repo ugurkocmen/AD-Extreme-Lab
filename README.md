@@ -1,6 +1,6 @@
 # AD-Practice-Lab: Advanced Active Directory & Evasion Playground
 
-AD-Extreme-Lab is an ultra-lightweight, automated Grey-Box lab designed to test your offensive security skills against real-world enterprise misconfigurations, host-based firewalls, and active Windows Defender (AMSI) evasion scenarios.
+AD-Practice-Lab is an ultra-lightweight, automated Grey-Box lab designed to test your offensive security skills against real-world enterprise misconfigurations, host-based firewalls, and active Windows Defender (AMSI) evasion scenarios.
 
 The core teaching concept of this lab is **Privilege Escalation (Zero to Hero)**. You start with absolutely zero active directory privileges inside a compromised Linux container, and by systematically exploiting chained misconfigurations, you progressively pivot until you extract Domain Admin credentials.
 
