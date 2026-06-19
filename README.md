@@ -39,7 +39,7 @@ Can you collect all three flags to fully compromise the domain?
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ugurkocmen/AD-Extreme-Lab.git](https://github.com/ugurkocmen/AD-Extreme-Lab.git)
+   git clone https://github.com/ugurkocmen/AD-Extreme-Lab.git
    cd AD-Extreme-Lab
    vagrant up
    vagrant ssh kali
