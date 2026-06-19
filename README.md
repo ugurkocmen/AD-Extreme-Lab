@@ -46,12 +46,13 @@ Can you collect all three flags to fully compromise the domain?
     ```bash
    vagrant up
     ```
-4. Establish your attack terminal connection:
+3. Establish your attack terminal connection:
     ```bash
    vagrant ssh kali
    ```
 Note: If you need to connect manually via external SSH clients directly to the Attacker Machine IP (192.168.56.20), use the default credentials: Username: vagrant | Password: vagrant. Once connected, run "sudo -i" to switch to root context.
-3. To start the simulation, jump into the compromised web application boundaries to initiate the Phase 1 vector:
+
+4. To start the simulation, jump into the compromised web application boundaries to initiate the Phase 1 vector:
    ```bash
    sudo docker exec -it extreme-app /bin/bash
    ```
