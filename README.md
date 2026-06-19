@@ -38,5 +38,5 @@ Can you collect all three flags to fully compromise the domain?
 ## ⚡ Quick Deployment
 1. Clone the repository:
 ```bash
-   git clone [https://github.com/ugurkocmen/AD-Practice-Lab.git](https://github.com/ugurkocmen/AD-Practice-Lab.git)
+   git clone https://github.com/ugurkocmen/AD-Practice-Lab.git
    cd AD-Practice-Lab
